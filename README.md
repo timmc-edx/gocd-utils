@@ -2,6 +2,8 @@
 
 A few shell scripts for working with the GoCD API.
 
+API reference: https://api.gocd.org/
+
 ## Querying jobs by log output
 
 1. Export environment variables `GOCD_TOKEN` (a personal token
